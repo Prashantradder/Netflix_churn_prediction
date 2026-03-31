@@ -7,8 +7,8 @@ Follow these steps to set up the project environment and run the analysis.
 First, clone the repository to your local machine and navigate into the project directory:
 
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone https://github.com/Prashantradder/Netflix_churn_prediction.git
+cd Netflix_churn_prediction
 ```
 
 Next, it is recommended to create a virtual environment to keep the project dependencies isolated.
